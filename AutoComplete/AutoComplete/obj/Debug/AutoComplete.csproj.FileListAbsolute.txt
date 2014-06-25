@@ -1,0 +1,14 @@
+C:\Users\OSVALDO\Documents\Projects\AutoComplete\AutoComplete\bin\Debug\AutoComplete.dll
+C:\Users\OSVALDO\Documents\Projects\AutoComplete\AutoComplete\bin\Debug\AutoComplete.pdb
+C:\Users\OSVALDO\Documents\Projects\AutoComplete\AutoComplete\bin\Debug\AutoComplete.dll.mdb
+C:\Users\OSVALDO\Documents\Projects\AutoComplete\AutoComplete\bin\Debug\AutoComplete.AutoComplete.apk
+C:\Users\OSVALDO\Documents\Projects\AutoComplete\AutoComplete\bin\Debug\AutoComplete.AutoComplete-Signed.apk
+C:\Users\OSVALDO\Documents\Projects\AutoComplete\AutoComplete\obj\Debug\AutoComplete.dll
+C:\Users\OSVALDO\Documents\Projects\AutoComplete\AutoComplete\obj\Debug\AutoComplete.pdb
+C:\Users\OSVALDO\Documents\Projects\AutoComplete\AutoComplete\obj\Debug\android\bin\AutoComplete.AutoComplete.apk
+C:\Users\OSVALDO\Documents\Projects\AutoComplete\AutoComplete\obj\Debug\res\layout\main.xml
+C:\Users\OSVALDO\Documents\Projects\AutoComplete\AutoComplete\obj\Debug\res\values\strings.xml
+C:\Users\OSVALDO\Documents\Projects\AutoComplete\AutoComplete\obj\Debug\res\drawable\icon.png
+C:\Users\OSVALDO\Documents\Projects\AutoComplete\AutoComplete\obj\Debug\res\layout\list_item.xml
+C:\Users\OSVALDO\Documents\Projects\AutoComplete\AutoComplete\obj\Debug\R.cs.flag
+C:\Users\OSVALDO\Documents\Projects\AutoComplete\AutoComplete\obj\Debug\uploadflags.txt
